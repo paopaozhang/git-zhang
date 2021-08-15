@@ -17,10 +17,7 @@ hello word!
 hello word!
 hello word!
 hello word!
-<<<<<<< HEAD
 hello word!:zhang
-=======
 hello word!:gong
->>>>>>> hot-fix
 zzzzzzzzzzz
 
